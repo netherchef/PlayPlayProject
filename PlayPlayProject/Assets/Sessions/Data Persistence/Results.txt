@@ -1,0 +1,2 @@
+Results:
+Public static data like variables, arrays, and lists persist between scenes. Game objects do NOT.
