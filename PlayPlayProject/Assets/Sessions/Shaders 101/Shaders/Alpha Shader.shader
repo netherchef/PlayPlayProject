@@ -25,7 +25,7 @@ Shader "Shaders101 / Alpha"
 
         Pass
         {
-            Blend One One
+            Blend SrcAlpha OneMinusSrcAlpha
 
             CGPROGRAM
 
