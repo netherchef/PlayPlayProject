@@ -1,0 +1,17 @@
+title: Monday
+tags: 
+colorID: 0
+position: 776,271
+---
+It's not technically a Monday.
+Sure feels like one though.
+Heh.
+===
+title: Tuesday
+tags: 
+colorID: 0
+position: 1066,261
+---
+Durd: Heh.
+Bak: Eh?
+===
